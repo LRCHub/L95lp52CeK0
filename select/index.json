@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Green Green Grass (Sped-Up)",
+  "base_artist": "George Ezra",
+  "createdAt": "2025-12-10T12:42:00.867373Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Green Green Grass (Sped-Up)",
+      "artist": "George Ezra",
+      "has_synced": true,
+      "path": "select/01_Green_Green_Grass_(Sped-Up)_George_Ezra.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Green Green Grass - Sped Up",
+      "artist": "Speedy Jack",
+      "has_synced": true,
+      "path": "select/02_Green_Green_Grass_-_Sped_Up_Speedy_Jack.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Green Green Grass (Sped-Up)",
+      "artist": "George Ezra",
+      "has_synced": true,
+      "path": "select/03_Green_Green_Grass_(Sped-Up)_George_Ezra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Green Green Grass (Sped Up)",
+      "artist": "Speedy Jack",
+      "has_synced": true,
+      "path": "select/04_Green_Green_Grass_(Sped_Up)_Speedy_Jack.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Green Green Grass - Sped-Up",
+      "artist": "George Ezra",
+      "has_synced": false,
+      "path": "select/pl_01_Green_Green_Grass_-_Sped-Up_George_Ezra.txt"
+    }
+  ]
+}
